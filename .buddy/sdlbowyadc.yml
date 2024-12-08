@@ -1,0 +1,4 @@
+- pipeline: sdlbowyadc
+  refs:
+  - refs/heads/master
+  on: CLICK

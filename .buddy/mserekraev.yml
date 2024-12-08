@@ -1,0 +1,4 @@
+- pipeline: mserekraev
+  refs:
+  - refs/heads/master
+  on: CLICK
